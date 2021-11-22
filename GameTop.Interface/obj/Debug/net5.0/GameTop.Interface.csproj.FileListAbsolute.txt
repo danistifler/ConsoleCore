@@ -1,0 +1,12 @@
+C:\Users\danie\OneDrive\Área de Trabalho\ConsoleCore\GameTop.Interface\bin\Debug\net5.0\GameTop.Interface.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\ConsoleCore\GameTop.Interface\bin\Debug\net5.0\GameTop.Interface.dll
+C:\Users\danie\OneDrive\Área de Trabalho\ConsoleCore\GameTop.Interface\bin\Debug\net5.0\ref\GameTop.Interface.dll
+C:\Users\danie\OneDrive\Área de Trabalho\ConsoleCore\GameTop.Interface\bin\Debug\net5.0\GameTop.Interface.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\ConsoleCore\GameTop.Interface\obj\Debug\net5.0\GameTop.Interface.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\ConsoleCore\GameTop.Interface\obj\Debug\net5.0\GameTop.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\ConsoleCore\GameTop.Interface\obj\Debug\net5.0\GameTop.Interface.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\ConsoleCore\GameTop.Interface\obj\Debug\net5.0\GameTop.Interface.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\ConsoleCore\GameTop.Interface\obj\Debug\net5.0\GameTop.Interface.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\ConsoleCore\GameTop.Interface\obj\Debug\net5.0\GameTop.Interface.dll
+C:\Users\danie\OneDrive\Área de Trabalho\ConsoleCore\GameTop.Interface\obj\Debug\net5.0\ref\GameTop.Interface.dll
+C:\Users\danie\OneDrive\Área de Trabalho\ConsoleCore\GameTop.Interface\obj\Debug\net5.0\GameTop.Interface.pdb
